@@ -64,7 +64,8 @@ The Agentic AI is shown in the figure below:
     
 Installation
     1. Clone this repository:
-       git clone https://github.com/<your-username>/agentic-ai-workflow.git
+       
+       
        cd agentic-ai-workflow
     2. Import the workflow JSON into n8n:
         ◦ Open n8n → Workflows → Import from file
