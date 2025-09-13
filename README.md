@@ -62,18 +62,20 @@ The Agentic AI is shown in the figure below:
     • OpenAI API key
     • Pinecone API key
     
-Installation
+##### Installation
     1. Clone this repository:
-       
-       
+       git clone https://github.com/manuelbomi/Agentic-AI-Workflow----Enterprise-Data-Integration-Pipeline-and-Vector-Storage-with-n8n.git  
        cd agentic-ai-workflow
+       
     2. Import the workflow JSON into n8n:
         ◦ Open n8n → Workflows → Import from file
         ◦ Select Enterprise_Data_from_Drive_to_Pinecone.json
+        
     3. Configure your credentials inside n8n:
         ◦ Google Drive OAuth
         ◦ OpenAI API
         ◦ Pinecone API
+        
     4. Activate the workflow.
 
 📂 Repository Contents
