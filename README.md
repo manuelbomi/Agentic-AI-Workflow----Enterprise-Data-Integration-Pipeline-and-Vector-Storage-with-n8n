@@ -83,21 +83,34 @@ The Agentic AI is shown in the figure below:
     • README.md → Documentation for architecture, setup, and usage
 
 #### Enterprise Applications  💡 
-This workflow forms the backbone for enterprise AI solutions, including:
+
+##### This workflow forms the backbone for enterprise AI solutions, including:
+
     • Knowledge Graphs & Semantic Search: Connect siloed business documents
+    
     • Decision Intelligence: AI-powered reasoning over enterprise datasets
+    
     • Document Automation: Streamline contracts, reports, and knowledge bases
+    
     • AI Architecture Blueprints: Extendable to CRM, ERP, HR, or Finance systems. 
 
 #### Customization  🧩 
-You can adapt this workflow for other enterprise data sources and applications:
+##### You can adapt this workflow for other enterprise data sources and applications:
+
     • Replace Google Drive with SharePoint, S3, or Dropbox
+    
     • Swap Pinecone with Weaviate, Milvus, or Qdrant
+    
     • Extend embedding generation with domain-specific models
+    
     • Integrate with LLM-based Q&A bots for RAG
+    
     * See (here: https://github.com/manuelbomi/Enterprise-Agentic-AI---Scalable-Meeting-Orchestration-with-n8n  ) for a comprehensive discourse regarding how you may fully integrate this workflow or similar workflows for your enterprise needs. 
+    
     * See (here:https://github.com/manuelbomi/Automating-Complex-Enterprise-Business-Financial-Decisions-Using-Agentic-AI-in-n8n ) for example of financial or business applications
+    
     * See (here: https://github.com/manuelbomi/An-Enterprise-Generative-AI-LLM-System-for-Manufacturing-and-Business-Applications- ) for example of deployment to Kubernetes clusters (e.g. Azure AKS) complete wit metrics monitoring (Prometheus & Grafana)
+    
     * See (here: https://app.emmanueloyekanluprojects.com/ ) for actual deployment of a variant of the system. You may upload your own pdf files onto the system and query the system based on the uploaded data. 
 
 
