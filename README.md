@@ -113,6 +113,30 @@ The Agentic AI is shown in the figure below:
     
     * See (here: https://app.emmanueloyekanluprojects.com/ ) for actual deployment of a variant of the system. You may upload your own pdf files onto the system and query the system based on the uploaded data. 
 
+---
+
+> [!NOTE]
+> Feel free to ignore the rest of the discourse if you are not interested in step-by-step method of designimg in n8n
+
+---
+---
+
+
+# Step-by-Step Method for Designning the Agentic AI System in n8n
+
+
+
+
+
+
+
+
+
+---
+#### License  📜 
+##### MIT License. Free to use, adapt, and extend for enterprise and research applications.
+
+---
 
 Thank you for reading 
 
