@@ -122,15 +122,23 @@ The Agentic AI is shown in the figure below:
 ---
 
 
-# Step-by-Step Method for Designning the Agentic AI System in n8n
+# Step-by-Step Method for Designing the Agentic AI System in n8n
 
 #### In this section, we provide step-by-step method by which interested users can design the Agentic AI workflow in their own system. 
 
-##### Prerequisites
+#### Prerequisites
     • n8n installed locally or in the cloud.  You can read through a primer (here: https://github.com/manuelbomi/An-Enterprise-Agentic-AI-Primer-with-n8n  ) to get you started on installing your own instance of n8n .
     • Google Drive API credentials
     • OpenAI API key
     • Pinecone API key
+
+#### Workflow Design Procedure
+
+#####  On your n8n canvas, type drive and select Google Drive
+<img width="1366" height="768" alt="1 type drive and select Google Drive" src="https://github.com/user-attachments/assets/49021d6b-7c64-422d-b385-8556fd61264c" />
+
+===
+
 
 
 
