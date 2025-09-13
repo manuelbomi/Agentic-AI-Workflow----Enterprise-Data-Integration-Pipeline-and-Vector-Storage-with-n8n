@@ -139,10 +139,23 @@ The Agentic AI is shown in the figure below:
 
 ---
 
-##### Select on changes inbolving specific folders
+##### Select on changes involving specific folders
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e23265f3-1579-4c77-9412-f1c3853ee363" />
 
 ---
+
+#####  Click select credentials and pick create new credentials
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c74d0563-74e4-4702-ae53-ac6aba334872" />
+
+---
+
+##### Pick create new credentials
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/12b400ae-179f-4b69-aea0-1c96f3a7c1d5" />
+
+---
+
+
 
 
 
