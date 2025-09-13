@@ -19,25 +19,31 @@ The Agentic AI is shown in the figure below:
 
 ---
 
-⚙️ Workflow Overview
-The pipeline automates the following steps:
-    1. Google Drive Trigger
+#### Workflow Overview  ⚙️ 
+##### The pipeline automates the following steps:
+
+    ##### 1. Google Drive Trigger
         ◦ Watches a specified folder for newly created files.
         ◦ Automatically reacts when enterprise data is added.
+        
     2. Download File
         ◦ Retrieves the uploaded file from Google Drive.
+        
     3. Recursive Character Text Splitter
         ◦ Splits large documents into smaller, overlapping text chunks.
         ◦ Ensures context preservation for embeddings.
+        
     4. Default Data Loader
         ◦ Prepares the document for AI processing.
+        
     5. OpenAI Embeddings
         ◦ Transforms text chunks into vector embeddings.
+        
     6. Pinecone Vector Store
         ◦ Inserts embeddings into a scalable vector database.
         ◦ Enables semantic search, retrieval-augmented generation (RAG), and enterprise AI knowledge systems.
 
-🏗️ Architecture
+##### Architecture  🏗️ 
 Google Drive → n8n Workflow → Text Splitter → OpenAI Embeddings → Pinecone Vector Database
 This architecture enables enterprises to build retrieval-augmented AI applications with a modular, scalable, and extensible design.
 
