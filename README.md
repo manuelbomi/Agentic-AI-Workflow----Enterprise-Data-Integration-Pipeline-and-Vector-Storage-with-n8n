@@ -47,7 +47,8 @@ The Agentic AI is shown in the figure below:
 ---
 
 #### Architecture  🏗️ 
-##### Google Drive → n8n Workflow → Text Splitter → OpenAI Embeddings → Pinecone Vector Database
+
+#### Google Drive 🠊  n8n Workflow 🠊 Text Splitter 🠊  OpenAI Embeddings 🠊 Pinecone Vector Database
 
 ##### This architecture enables enterprises to build retrieval-augmented AI applications with a modular, scalable, and extensible design.
 
