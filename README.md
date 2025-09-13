@@ -132,12 +132,12 @@ The Agentic AI is shown in the figure below:
     • OpenAI API key
     • Pinecone API key
 
-#### Workflow Design Procedure
+### Workflow Design Procedure
 
 #####  On your n8n canvas, type drive and select Google Drive
 <img width="1366" height="768" alt="1 type drive and select Google Drive" src="https://github.com/user-attachments/assets/49021d6b-7c64-422d-b385-8556fd61264c" />
 
-===
+---
 
 
 
