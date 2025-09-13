@@ -22,7 +22,7 @@ The Agentic AI is shown in the figure below:
 #### Workflow Overview  ⚙️ 
 ##### The pipeline automates the following steps:
 
-    ##### 1. Google Drive Trigger
+    1. Google Drive Trigger
         ◦ Watches a specified folder for newly created files.
         ◦ Automatically reacts when enterprise data is added.
         
@@ -43,16 +43,24 @@ The Agentic AI is shown in the figure below:
         ◦ Inserts embeddings into a scalable vector database.
         ◦ Enables semantic search, retrieval-augmented generation (RAG), and enterprise AI knowledge systems.
 
-##### Architecture  🏗️ 
-Google Drive → n8n Workflow → Text Splitter → OpenAI Embeddings → Pinecone Vector Database
-This architecture enables enterprises to build retrieval-augmented AI applications with a modular, scalable, and extensible design.
 
-🚀 Getting Started
-Prerequisites
+---
+
+#### Architecture  🏗️ 
+##### Google Drive → n8n Workflow → Text Splitter → OpenAI Embeddings → Pinecone Vector Database
+
+##### This architecture enables enterprises to build retrieval-augmented AI applications with a modular, scalable, and extensible design.
+
+---
+
+#### How To Use this Repository for Your Enterprise Project  🚀 
+
+##### Prerequisites
     • n8n installed locally or in the cloud
     • Google Drive API credentials
     • OpenAI API key
     • Pinecone API key
+    
 Installation
     1. Clone this repository:
        git clone https://github.com/<your-username>/agentic-ai-workflow.git
