@@ -95,6 +95,36 @@ You can adapt this workflow for other enterprise data sources and applications:
     • Swap Pinecone with Weaviate, Milvus, or Qdrant
     • Extend embedding generation with domain-specific models
     • Integrate with LLM-based Q&A bots for RAG
-    * See (here  ) for a comprehensive discourse regarding how you may fully integrate this workflow or similar workflows for your enterprise needs. 
+    * See (here: https://github.com/manuelbomi/Enterprise-Agentic-AI---Scalable-Meeting-Orchestration-with-n8n  ) for a comprehensive discourse regarding how you may fully integrate this workflow or similar workflows for your enterprise needs. 
+    * See (here:https://github.com/manuelbomi/Automating-Complex-Enterprise-Business-Financial-Decisions-Using-Agentic-AI-in-n8n ) for example of financial or business applications
+    * See (here: https://github.com/manuelbomi/An-Enterprise-Generative-AI-LLM-System-for-Manufacturing-and-Business-Applications- ) for example of deployment to Kubernetes clusters (e.g. Azure AKS) complete wit metrics monitoring (Prometheus & Grafana)
+    * See (here: https://app.emmanueloyekanluprojects.com/ ) for actual deployment of a variant of the system. You may upload your own pdf files onto the system and query the system based on the uploaded data. 
+
+
+Thank you for reading 
+
+---
+
+
+
+### **AUTHOR'S BACKGROUND**
+### Author's Name:  Emmanuel Oyekanlu
+```
+Skillset:   I have experience spanning several years in data science, developing scalable enterprise data pipelines,
+enterprise solution architecture, architecting enterprise systems data and AI applications,
+software and AI solution design and deployments, data engineering, high performance computing (GPU, CUDA), machine learning,
+NLP, Agentic-AI and LLM applications as well as deploying scalable solutions (apps) on-prem and in the cloud.
+
+I can be reached through: manuelbomi@yahoo.com
+
+Websites (professional):  http://emmanueloyekanlu.com/
+Websites (application):  https://app.emmanueloyekanluprojects.com/
+Publications:  https://scholar.google.com/citations?user=S-jTMfkAAAAJ&hl=en
+LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
+Github:  https://github.com/manuelbomi
+
+```
+[![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
+
 
 
