@@ -417,6 +417,44 @@ The Agentic AI is shown in the figure below:
 
 --- 
 
+##### On document select Dafault Data Loader
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9da1edd1-82be-4052-a676-f05b01305b4c" />
+
+---
+
+##### On Default Data Loader on the dropdown select Binary data type
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c7ae6f48-1258-4aac-ab84-766f0d898cc0" />
+
+---
+
+##### On Text Splitting select Custom
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/11817b80-be3e-493b-b2a1-16bc299587c0" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3da32f14-a32e-4c19-9bef-fb8556a81bd1" />
+
+---
+
+##### On Text Splitter select Recursive Character Text Splitter
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7ae64221-26eb-4828-859c-105ceb021498" />
+
+---
+
+##### On Recursive Text Splitter set Chunk Size to convenient sizes 500 and Chunk Overlap to 20
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/57a0a1ba-ccc2-4b50-b8a4-12d62372706a" />
+
+---
+
+##### Your current workflow
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5267155a-8bf7-4aa3-a915-c27755428cdb" />
+
+---
+
+##### Vector dimension 1536 problem go back to your pinecone and select custom dimension
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/722774c1-83a9-4935-a2ed-b4aed756b998" />
+
+---
+
+##### 
+
 
 
 
