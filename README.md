@@ -390,6 +390,33 @@ The Agentic AI is shown in the figure below:
 ##### On operation mode select Insert Document
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/61f73e5c-75c3-492b-95cb-4eb87772eb88" />
 
+---
+
+##### On Pinecone Index select n8n-agentic-ai on the dropdown list
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8a545647-41d6-464e-8681-3183c44357f4" />
+
+---
+
+##### Your current workflow
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d36a3392-6c5f-47a8-b60a-fdc16c296687" />
+
+---
+
+#####  On Embeddings select Embeddings Open AI
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4eb48610-d8f5-4a99-8a95-93a715a31ed2" />
+
+---
+
+##### On Embeddings OpenAI select text-embedding-3-small same as you selected on Pinecone
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/eabbe4a8-844b-4428-9961-13845823caf0" />
+
+---
+
+##### Your current canvas
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ff443aaf-1f16-4215-9340-dec1d4d5b1b3" />
+
+--- 
+
 
 
 
