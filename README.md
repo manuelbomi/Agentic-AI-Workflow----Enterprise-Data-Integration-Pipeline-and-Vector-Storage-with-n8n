@@ -171,6 +171,63 @@ The Agentic AI is shown in the figure below:
 
 ---
 
+##### Type to search for drive
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f68e90d4-a376-4742-8835-246a870eb140" />
+
+---
+
+##### Select Google Drive API
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0cb66ad9-8f6a-41ee-aa7b-209e105b51c9" />
+
+---
+
+##### Click on Enable
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/74374ec2-8518-44c9-9ee7-43d784c0d21c" />
+
+---
+
+##### On Google Drive API, go to Credentials
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/01c11767-e220-4e4b-ad5e-ba8eef086e77" />
+
+---
+
+##### Copy credentials ID for OAuth client
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b4a8345b-82c0-4ff0-8e4a-bb682c1e190d" />
+
+---
+
+##### Paste the client ID on your Agent
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/936f6149-d151-40ed-9621-c3ed9f5754e4" />
+
+---
+
+##### Click on Edith OAuth Client
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c983e5ea-bb3b-4c7f-893b-1c114b75adb7" />
+
+---
+
+##### Copy client secret
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0c51d1f3-8055-4011-a329-788a2571c5fc" />
+
+---
+
+##### Copy the redirect URL from your agent
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a1f6be98-62aa-479b-a994-e7b814846dab" />
+
+---
+
+##### Click on Add URI on Google Console and clisk to save
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1a3576a9-dcd2-4596-8209-6a018a263ff7" />
+
+---
+
+##### Now try and sign in with Google mail
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d43c24bb-38f0-49a2-9b0a-4035a89d7dfe" />
+
+---
+
 
 
 
