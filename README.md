@@ -228,6 +228,167 @@ The Agentic AI is shown in the figure below:
 
 ---
 
+##### Sign on with Google mail
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/890d2c94-354d-4f46-90f7-1d9eac3735f9" />
+
+---
+
+#####  It will show connected successful for the Google Drive account that you use to store your files
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dc6a9b6c-bc40-4bc5-87ef-06cadc30d93b" />
+
+---
+
+##### It will also show account connceted on your Agent UI
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8018ad0d-d188-49bb-9285-5fdfa86464da" />
+
+---
+
+#####  Create a new folder in your Google Drive
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ca909c9a-e557-44ec-8a65-e5a0ef642839" />
+
+---
+
+##### Create folder in your google drive and load up unstructured data about an interest e.g. Avanade
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b8818c3c-1339-4967-97c1-1f0fb48f0c76" />
+
+---
+
+##### Create folder in your google drive and load up unstructured data about an interest e.g. GE Vernova or GE Aerospace
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/069d4269-062a-4e3c-aba2-e5f1622e61b8" />
+
+---
+
+##### Double click your Google drive trigger on n8n and select a folder e.g. Avanade
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/eee33a1f-0cc8-469d-af88-afebf737f68a" />
+
+---
+
+##### Under watch for select File Created
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5016bc6d-4bcc-4b53-87b7-d637ca3565f7" />
+
+---
+
+##### Click on Fetch Test Event to test the file pull connectivity
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/eb72e730-b7e5-4aaf-8e21-0d7b334c4fad" />
+
+---
+
+##### Go back to canvas and add another node to download the file
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1e6b73fa-d3a2-48a3-bdc8-92eaef0819a4" />
+
+---
+
+##### Select the download file node
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/568a3134-a887-4e3b-b0d5-62aa6b779fd9" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/09256bdd-3981-4bc9-84fa-e3f600f3cb5d" />
+
+---
+
+##### Select the By ID download method
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/653e7bf7-0b44-463a-bacd-f3944a2d41e0" />
+
+---
+
+##### Scroll through the node input and locate the ID and drag the ID into the node ID tab on the RHS
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c09d8f3c-ca78-4d5c-96e6-fbdddb7ec2a5" />
+
+---
+
+##### Scroll thru the node input and locate the ID and drag the ID into the node ID tab on the RHS
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/672aa9cb-852b-4b21-b54f-36ed2b05b664" />
+
+---
+
+##### Click on the Execute step tab
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1e9edfee-f014-4d5a-89a6-f5d9f46cb55c" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3ce4483e-59e5-4300-a568-401b28fb5f0a" />
+
+---
+
+##### If a new file is added to the folder, it will download it
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8b80d49f-fd86-43f0-9451-29d1c2390509" />
+
+---
+
+##### Create a Pinecone free account
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9f5a5c65-f6f7-46c4-9a7c-b2317226905a" />
+
+---
+
+##### Create an index name n8n-agentic-ai in this instance
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3ff07bdd-b7ec-48dc-a54f-1b6deee012cb" />
+
+---
+
+#####  Select (the desired OpenAI embedding) text-embedding-3-small in this instance
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/bf60c8c2-2c7c-47fd-9b21-05e53d140255" />
+
+---
+
+#####  Select serverless and click create index
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8e768734-4ed4-43b8-9f67-8e39aeb8c806" />
+
+---
+
+##### Now, go to API keys
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/308e3b16-93b1-45c9-a9ba-18b3cc7ee1d2" />
+
+---
+
+##### Create API key
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e0ca0630-d189-414b-a74f-911fca9ff068" />
+
+---
+
+##### Give your key a name
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/03596cd9-80d8-4407-8537-c1f1d34161df" />
+
+---
+
+##### Copy you API key immediately
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2aaf1f98-94b4-43a0-9000-9657d0500443" />
+
+
+---
+
+##### Nw, go back to your n8n workflow
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c3b9e0e3-85af-4426-9b7d-a307ab744b20" />
+
+---
+
+#####  Click the plus sign on Download File search for Pinecone and select Pinecone Vector Store
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8e1b7a95-745d-4da5-a5bc-4123bf210892" />
+
+---
+
+##### Select Add Document to Vector Store
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/69d86f6a-76c2-47f7-84f2-ae0e913580fa" />
+
+---
+
+#####  Click on Credential to Connect with
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d5c039d8-3fea-4097-9d37-257caae39cc9" />
+
+---
+
+##### Click Create New Credential
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fc6ed245-5638-4a5c-b7ed-05cde578df32" />
+
+---
+
+##### Paste your API key
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7dc1eb22-d4ff-450c-92dd-71296fa34986" />
+
+---
+
+##### Click save and you will see Connection Tested Successfully
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/451277c1-81f9-4ef5-ae6a-e2456f298366" />
+
+---
+
+##### On operation mode select Insert Document
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/61f73e5c-75c3-492b-95cb-4eb87772eb88" />
 
 
 
