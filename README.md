@@ -453,7 +453,42 @@ The Agentic AI is shown in the figure below:
 
 ---
 
-##### 
+##### Select text-embedding small and click on custom settings
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1e7470cc-450b-4e7e-9467-ddc28a3198ff" />
+
+---
+
+##### Set dimension to 1536
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/36f4d39d-af1a-44e3-88a1-a961f8a199bd" />
+
+--- 
+
+##### New index now have dimension 1536
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b038ab00-6048-4a48-87c4-ee1809c8dd8d" />
+
+---
+
+##### Workflow have now executed successfull and 39 items av been added to your Pinecone index
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8d6ec3ad-d3ca-46df-83d1-b88c1a7523b3" />
+
+---
+
+##### Pinecone shows 39 new resords added
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2f82bc3c-fc10-4083-beb7-7bd5a3bd19a3" />
+
+---
+
+##### On n8n workflow pinecone vector store we can also observe the chuncked down documents
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dafd4128-a47c-4ad8-b310-c059290c9aad" />
+
+---
+
+##### Complete workflow
+<img width="982" height="462" alt="Image" src="https://github.com/user-attachments/assets/266be53c-ccb9-41cf-be42-56fd9d9f0b6f" />
+
+
 
 
 
