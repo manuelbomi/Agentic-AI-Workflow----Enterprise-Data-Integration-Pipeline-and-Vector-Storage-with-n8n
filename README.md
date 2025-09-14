@@ -160,7 +160,16 @@ The Agentic AI is shown in the figure below:
 
 ---
 
+##### Select Enable API and Services
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fc4525e2-1806-4773-bed8-3faca50aeb7a" />
 
+---
+
+##### Click + Enabled API and Services again
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/59f1c53f-8725-43a9-971f-f7a85c0891b9" />
+
+---
 
 
 
