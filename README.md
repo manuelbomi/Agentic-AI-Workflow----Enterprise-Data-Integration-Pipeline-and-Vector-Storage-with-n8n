@@ -155,6 +155,11 @@ The Agentic AI is shown in the figure below:
 
 ---
 
+##### Go to Google Console and select your n8n project. See (here: https://github.com/manuelbomi/Enterprise-Agentic-AI---Scalable-Meeting-Orchestration-with-n8n ) regarding how to create you n8n project on GCP 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e9d3eec5-0700-4f9e-b1fb-ccc88f52e293" />
+
+---
+
 
 
 
