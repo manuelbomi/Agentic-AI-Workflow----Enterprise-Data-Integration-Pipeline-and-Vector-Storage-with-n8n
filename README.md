@@ -1,6 +1,6 @@
 # Agentic AI Workflow----Enterprise Data Integration Pipeline and Vector Storage with n8n
 
-#### Introduction 📌
+#### Introduction 
 ##### This repository demonstrates an Agentic AI workflow built with n8n that enables enterprises to:
     • Seamlessly ingest unstructured data from Google Drive
     • Preprocess and split documents into manageable chunks
@@ -19,7 +19,7 @@ The Agentic AI is shown in the figure below:
 
 ---
 
-#### Workflow Overview  ⚙️ 
+#### Workflow Overview   
 ##### The pipeline automates the following steps:
 
     1. Google Drive Trigger
@@ -46,7 +46,7 @@ The Agentic AI is shown in the figure below:
 
 ---
 
-#### Architecture  🏗️ 
+#### Architecture   
 
 #### Google Drive 🠊  n8n Workflow 🠊 Text Splitter 🠊  OpenAI Embeddings 🠊 Pinecone Vector Database
 
@@ -54,7 +54,7 @@ The Agentic AI is shown in the figure below:
 
 ---
 
-#### How To Use this Repository for Your Enterprise Project  🚀 
+#### How To Use this Repository for Your Enterprise Project  
 
 ##### Prerequisites
     • n8n installed locally or in the cloud
@@ -78,11 +78,11 @@ The Agentic AI is shown in the figure below:
         
     4. Activate the workflow.
 
-#### Repository Contents  📂 
+#### Repository Contents  
     • Enterprise_Data_from_Drive_to_Pinecone.json → The full n8n workflow definition
     • README.md → Documentation for architecture, setup, and usage
 
-#### Enterprise Applications  💡 
+#### Enterprise Applications   
 
 ##### This workflow forms the backbone for enterprise AI solutions, including:
 
@@ -94,7 +94,7 @@ The Agentic AI is shown in the figure below:
     
     • AI Architecture Blueprints: Extendable to CRM, ERP, HR, or Finance systems. 
 
-#### Customization  🧩 
+#### Customization   
 ##### You can adapt this workflow for other enterprise data sources and applications:
 
     • Replace Google Drive with SharePoint, S3, or Dropbox
